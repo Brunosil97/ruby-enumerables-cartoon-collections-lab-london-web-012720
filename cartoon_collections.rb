@@ -32,4 +32,4 @@ def find_the_cheese(array)
     cheese == "chedder" || cheese == "gouda" || cheese == "camembert"
  end 
 end
-find_the_cheese(ingrdients)
+find_the_cheese(ingredients)
