@@ -29,7 +29,7 @@ soup = ["tomato soup", "cheddar", "oyster crackers", "gouda"]
 ingredients = ["garlic", "rosemary", "bread"]
 def find_the_cheese(array)
   array.find do |cheese|
-    cheese == 
-  
-  cheese_types = ["cheddar", "gouda", "camembert"]
+    cheese == "chedder" || cheese == "gouda" || cheese == "camembert"
+ end 
 end
+find_the_cheese(ingrdients)
