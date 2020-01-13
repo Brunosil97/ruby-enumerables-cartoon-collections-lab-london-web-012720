@@ -1,5 +1,5 @@
 dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"] 
-def roll_call_dwarves(array)
+def roll_call_dwarves(dwarves)
   
   
 end
