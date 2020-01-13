@@ -2,7 +2,7 @@ dwarves = ["Doc", "Dopey", "Bashful", "Grumpy"]
 def roll_call_dwarves(dwarves)
   i = 0 
   while i < dwarves.length
-  puts #{
+  puts "#{i + 1}" 
   
 end
 
