@@ -21,7 +21,8 @@ def long_planeteer_calls(array)
     word.length > 4 
   end 
 end
-long_planeteer_calls
+long_planeteer_calls(short_words)
+long_planeteer_calls(assorted_words)
 
 def find_the_cheese# code an argument here
   # the array below is here to help
