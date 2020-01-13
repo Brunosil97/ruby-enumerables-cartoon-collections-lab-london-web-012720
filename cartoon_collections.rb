@@ -6,7 +6,7 @@ def roll_call_dwarves(dwarves)
 end
 roll_call_dwarves(dwarves)
 
-planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
+
 def summon_captain_planet
   
 end
